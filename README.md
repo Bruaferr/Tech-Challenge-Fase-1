@@ -34,7 +34,5 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 - Observação:** Os resquisitos baseado no projeto desenvolvida(monolítico):**
   
-- Atente;
-- Atende(parcialmente);
-- Não atende;
+- Atente, Atende(parcialmente), Não atende;
 
