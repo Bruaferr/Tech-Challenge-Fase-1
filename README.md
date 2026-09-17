@@ -5,4 +5,12 @@
 
 ![/.github/LOGO-FIAP.png](/.github/LOGO-FIAP.png)
 
-# Tech-Challenge-Fase-1
+# Tech Challenge Fase 1
+
+Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos as seguintes fases:
+
+## Resultados da Fase 1
+
+1. [**Demonstração (vídeo 15 minutos):**](https://youtu.be/teste)
+
+2. **Divisão por Tópicos:**
