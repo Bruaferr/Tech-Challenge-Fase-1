@@ -36,3 +36,5 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
   
 - Atente, Atende(parcialmente), Não atende;
 
+- #Devido a que conclus-se que o projeto é monolito;
+
