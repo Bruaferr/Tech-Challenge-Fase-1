@@ -47,3 +47,5 @@ Aplicação gerenciada pelo time de TI, pois são os responsáveis pela instala�
 ## Desvantagens
 
 Dependem de atualizações do fornecedor/desenvolvimento relacionado à performace. Ou seja, disponibilizada uma nova versão, o time de ti precisa atualizar a vesão do (.exe, componentes e escalabilidade do banco de dados).
+
+## Análises dos 12 Fatores
