@@ -17,7 +17,7 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 - [Estudo monolito](#Por-qual-motivo-o-projeto-é-monolito);
 - [Beneficios](#beneficios);
-- [Desvantagnes](#Desvantagens);
+- [Desvantagnes](#desvantagens);
 - [Analises dos 12 Fatores](#analises-dos-12-fatores);
 - [Performace](#performace);
 - [Link do diagrama](https://excalidraw.com/);
@@ -38,10 +38,12 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 ## Por qual motivo o projeto é monolito?
 
-Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio, porém dependem de atualizações do fornecedor/desenvolvimento relacionado a performace e escalabilidade do banco de dados.
+Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio.
 
 ## Beneficios
 
 Aplicação gerenciada pelo time de TI, pois são os responsáveis pela instalaçõa, criação e controle. Detêm de toda a documentação do projeto
 
+## Desvantagens
 
+Dependem de atualizações do fornecedor/desenvolvimento relacionado à performace. Ou seja, a cada nova versão disponibilizada, o time de ti precisa atualizar a vesão do (.exe, componentes e escalabilidade do banco de dados).
