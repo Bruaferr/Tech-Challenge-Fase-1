@@ -15,11 +15,11 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 2. **Divisão por Tópicos:**
 
-- [Análise do Monolito](#porque-aplicação-é-um-monolito);
-- [Vantagens](#vantagens);
-- [Desvantagens](#desvantagens);
-- [Atende aos 12 Fatores](#cobertura-dos-12-fatores);
-- [Pontos de Melhoria](#pontos-de-melhoria);
+- [Estudo Monolítico](#porque-aplicação-é-um-monolito);
+- [Benefícios](#benefícios);
+- [Prejuízos](#prejuízos);
+- [Analises dos 12 Fatores](#cobertura-dos-12-fatores);
+- [Melhoria](#melhoria);
 - [Análise Ponto a Ponto dos 12 Fatores com Simbologia](#legenda-dos-símbolos-utilizados-na-classificação);
 - [Diagrama Link](https://excalidraw.com/#json=7f1MZc40Wjoz2eTTvR7dp,otmG3QofYMlNNVtNjaHMoA);
 - [Diagrama Imagem](#diagrama-de-arquitetura-aplicada)
