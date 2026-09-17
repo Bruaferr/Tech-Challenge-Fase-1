@@ -33,4 +33,3 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 - [Matheus Menezes Duarte](#)
 - [Paulo Ricardo Ribeiro dos Santos](https://www.linkedin.com/)
 
-1. **Integrantes do Grupo**:
