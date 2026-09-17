@@ -25,7 +25,7 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 - [Diagrama Imagem](#diagrama-de-arquitetura-aplicada)
 - [Calculadora](#calculadora-com-estimativa-de-preço);
 
-  3. **Integrantes do Grupo:**
+3. **Integrantes do Grupo:**
 
 - [Rodrigo Augusto Hentz Alves](https://www.linkedin.com/)
 - [Bruno de Assis Fernandes](#)
