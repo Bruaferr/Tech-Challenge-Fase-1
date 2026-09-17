@@ -15,9 +15,9 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 2. **Divisão por Tópicos:**
 
-- [Estudo](#porque-aplicação-é-um-monolito);
+- [Estudo monolito](#porque-aplicação-é-um-monolito);
 - [Beneficios](#beneficios);
-- [Prejuizos](#prejuizos);
+- [Prejuízos](#Prejuízos);
 - [Analises dos 12 Fatores](#analises-dos-12-fatores);
 - [Performace](#performace);
 - [Link do diagrama](https://excalidraw.com/);
