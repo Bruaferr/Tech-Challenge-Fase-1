@@ -41,3 +41,7 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio, porém dependem de atualizações do fornecedor/desenvolvimento relacionado a performace e escalabilidade do banco de dados.
 
 ## Beneficios
+
+Aplicação gerenciada pelo time de TI, pois são os responsáveis pela instalaçõa, criação e controle. Detêm de toda a documentação do projeto
+
+
