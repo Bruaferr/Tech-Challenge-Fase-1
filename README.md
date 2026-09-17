@@ -18,12 +18,11 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 - [Estudo Monolítico](#porque-aplicação-é-um-monolito);
 - [Benefícios](#benefícios);
 - [Prejuízos](#prejuízos);
-- [Analises dos 12 Fatores](#cobertura-dos-12-fatores);
-- [Melhoria](#melhoria);
-- [Análise Ponto a Ponto dos 12 Fatores com Simbologia](#legenda-dos-símbolos-utilizados-na-classificação);
-- [Diagrama Link](https://excalidraw.com/#json=7f1MZc40Wjoz2eTTvR7dp,otmG3QofYMlNNVtNjaHMoA);
-- [Diagrama Imagem](#diagrama-de-arquitetura-aplicada)
-- [Calculadora](#calculadora-com-estimativa-de-preço);
+- [Analises dos 12 Fatores](#analises-dos-12-fatores);
+- [Performace](#performace);
+- [Link do diagrama](https://excalidraw.com/);
+- [Imagem do diagrama](#diagrama-de-arquitetura-aplicada)
+- [Calculo](#calculadora-com-estimativa-de-preço);
 
 3. **Integrantes do Grupo:**
 
