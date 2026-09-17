@@ -7,7 +7,7 @@
 
 # Tech Challenge Fase 1
 
-Em fase de conclusão o projeto Toggle Master de acordo com o que foi proposto e atingimos as seguintes fases:
+Em fase de conclusão o projeto Toggle Master de acordo com o que foi proposto e espera-se atingir as seguintes fases:
 
 ## Resultados da Fase 1
 
