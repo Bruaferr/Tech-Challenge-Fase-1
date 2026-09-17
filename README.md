@@ -32,3 +32,9 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 - [Matheus Menezes Duarte](#)
 - [Paulo Ricardo Ribeiro dos Santos](https://www.linkedin.com/)
 
+- Observação:** Os resquisitos baseado no projeto desenvolvida(monolítico).
+  
+- Atente;
+- Atende(parcialmente);
+- Não atende;
+
