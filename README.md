@@ -59,8 +59,8 @@ Chamar o excalidraw.com:
 
 ## Imagem do diagrama
 
-Indexar o diagrama da arquitetura:
+Indexar a imagem:
 
 ## Calculo 
 
-Indexar o calculo de preço:
+Descrever;
