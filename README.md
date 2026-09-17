@@ -38,6 +38,6 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 ## Por qual motivo o projeto é monolito?
 
-Trata-se de uma app desenvolvida através unicamente de um .exe, de modo que a interface, serviços e Dlls compartilham da mesma base. Essa abordagem simplifica a implantação, a homologação e testes e o entendimento da regra de negócio, porém dependem de atualizações do fornecedor/dev relacionado a performace e escalabilidade do banco de dados
+Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio, porém dependem de atualizações do fornecedor/desenvolvimento relacionado a performace e escalabilidade do banco de dados.
 
 ## Beneficios
