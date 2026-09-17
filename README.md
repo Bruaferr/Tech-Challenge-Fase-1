@@ -15,7 +15,7 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
 
 2. **Divisão por Tópicos:**
 
-- [Estudo monolito](#porque-aplicação-é-um-monolito);
+- [Estudo monolito](#Por-qual-motivo-o-projeto-é-monolito);
 - [Beneficios](#beneficios);
 - [Desvantagnes](#Desvantagens);
 - [Analises dos 12 Fatores](#analises-dos-12-fatores);
@@ -36,7 +36,7 @@ Concluímos o projeto Toggle Master de acordo com o que foi proposto e atingimos
   
 - Atente, Atende(parcialmente), Não atende;
 
-## Por qual motivo entende-se que o projeto é monolito?
+## Por qual motivo o projeto é monolito?
 
 Trata-se de uma app desenvolvida através unicamente de um .exe, de modo que a interface, serviços e Dlls compartilham da mesma base. Essa abordagem simplifica a implantação, a homologação e testes e o entendimento da regra de negócio, porém dependem de atualizações do fornecedor/dev relacionado a performace e escalabilidade do banco de dados
 
