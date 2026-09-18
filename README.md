@@ -20,7 +20,7 @@ Em fase de conclusão o projeto Toggle Master de acordo com o que foi proposto e
 - [Desvantagnes](#desvantagens);
 - [Analises dos 12 Fatores](#analises-dos-12-fatores);
 - [Performace](#performace);
-- [Link do diagrama](https://excalidraw.com/#json=0zilQAYuNe_H5-og-0BDM,8qUX8aRVogC5N2SwVaJ-rg);
+- [Link do diagrama](https://excalidraw.com/#json=xmeLtXuGWBvNmcuFlCBde,Y9SUpEMCvxw6mgpuzFXjsQ);
 - [Imagem do diagrama](#diagrama-de-arquitetura-aplicada)
 - [Calculo](#calculadora-com-estimativa-de-preço);
 
@@ -55,7 +55,7 @@ Descrever:
 
 ## Link do diagrama]
 
-Chamar o excalidraw.com:
+(https://excalidraw.com/#json=xmeLtXuGWBvNmcuFlCBde,Y9SUpEMCvxw6mgpuzFXjsQ);
 
 ## Imagem do diagrama
 
