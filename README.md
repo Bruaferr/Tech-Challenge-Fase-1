@@ -21,7 +21,7 @@ Em fase de conclusão o projeto Toggle Master de acordo com o que foi proposto e
 - [Analises dos 12 Fatores](#analises-dos-12-fatores);
 - [Performace](#performace);
 - [Link do diagrama](https://excalidraw.com/#json=xmeLtXuGWBvNmcuFlCBde,Y9SUpEMCvxw6mgpuzFXjsQ);
-- [Imagem do diagrama](#diagrama-de-arquitetura-aplicada)
+- [Imagem do diagrama](#diagrama-de-arquitetura-aplicada;
 - [Calculo](#calculadora-com-estimativa-de-preço);
 
 3. **Integrantes do Grupo:**
