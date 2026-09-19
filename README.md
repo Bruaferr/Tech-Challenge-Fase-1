@@ -55,7 +55,7 @@ Descrever:
 
 ## Link do diagrama]
 
-(https://excalidraw.com/#json=xmeLtXuGWBvNmcuFlCBde,Y9SUpEMCvxw6mgpuzFXjsQ);
+();
 
 ## Imagem do diagrama
 
