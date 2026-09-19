@@ -63,4 +63,5 @@ Descrever:
 
 ## Calculo 
 
-Descrever;
+![](/.github/price-calculator.jpeg)
+
