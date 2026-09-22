@@ -20,7 +20,7 @@ resource "aws_ecs_task_definition" "Django-API" {
    memory                   = 512
    execution_roles_arn      = aws_iam_role.cargo.arn
    container_definitions    = jsonencode ()
-
+}
 [
   {
     "name"= "producao"
@@ -48,7 +48,7 @@ resource "aws_ecs_service" "Django-API" {
     container_name   = "producao"
     container_port   = 8000
   }
-
+}
 network_configuration { 
     subnets = module.vpc.private_subnets
     security_group = [aws_security_group.private.id]
