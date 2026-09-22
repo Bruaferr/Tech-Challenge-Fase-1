@@ -53,7 +53,7 @@ Dependem de atualizações do fornecedor/desenvolvimento relacionado à performa
 
 Descrever:
 
-## Link do diagrama]
+## Link do diagrama
 
 ();
 
@@ -63,5 +63,7 @@ Descrever:
 
 ## Calculo 
 
-![](/.github/price-calculator.jpeg)
+![](/.github/price-calculator.jpeg) 
+
+
 
