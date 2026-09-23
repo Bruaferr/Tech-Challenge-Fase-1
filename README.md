@@ -79,7 +79,7 @@ Descrever:
 
 ![Diagrama Imagem](/.github/DiagramaArquiteturaAplicadaTechChallenge.png)
 
-## Calculo 
+## 💲Calculo 
 
 ![](/.github/price-calculator.jpeg) 
 
