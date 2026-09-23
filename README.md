@@ -14,12 +14,20 @@ Em fase de conclusão o projeto "ToggleMaster" de acordo com o que foi proposto 
 3° (Docker-compose.yaml) = Rodar a estrutura local
 4° (README.md)           = Pre-resquisitos para rodar local/aws, como também (End points  para testar as chamadas de Apis [Postman ou curl])
 
-## 📖 Proposta
+## 🖥️ Proposta
 
 O objetivo é validar a comunicação com uma API que permita: criar, ler, atualizar e deletar feature flags sem a necessidade de um novo deploy. Portanto, o projeto visa criar e implantar o (Produto Mínimo Viável), que consiste em uma API monolítica para gerenciar as  *feature flags*.
 
+## 📋 O Propósito é utilizar os fundamentos do "DevOps/Cloud" no sentido de:
 
-## Resultados da Fase 1
+- Examinar ambiente monolítico.
+- Debater as vantagens e desvantagens.
+- Analisar os 12 fatores.
+- Projetar a arquitetura de nuvem Web/AWS.
+- Implementar recursos AWS (VPC, EC2, RDS, Security Groups).
+- Configurar práticas de segurança na AWS (IAM, Security Groups).
+
+## 📌 Resultados da Fase 1
 
 1. [**Demonstração (vídeo 15 minutos):**](https://youtu.be/teste)
 
