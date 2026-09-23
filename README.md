@@ -7,7 +7,17 @@
 
 # Tech Challenge Fase 1
 
-Em fase de conclusão o projeto Toggle Master de acordo com o que foi proposto e espera-se atingir as seguintes fases:
+Em fase de conclusão o projeto "ToggleMaster" de acordo com o que foi proposto e espera-se atingir as seguintes fases:
+
+1° (App.py)              = Variável de ambiente monolítico em phayton
+2° (Dockerfile)          = Rodar a estrutura monolítico
+3° (Docker-compose.yaml) = Rodar a estrutura local
+4° (README.md)           = Pre-resquisitos para rodar local/aws, como também (End points  para testar as chamadas de Apis [Postman ou curl])
+
+## 📖 Proposta
+
+O objetivo é validar a comunicação com uma API que permita: criar, ler, atualizar e deletar feature flags sem a necessidade de um novo deploy. Portanto, o projeto visa criar e implantar o (Produto Mínimo Viável), que consiste em uma API monolítica para gerenciar as  *feature flags*.
+
 
 ## Resultados da Fase 1
 
