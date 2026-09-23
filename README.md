@@ -50,32 +50,32 @@ O objetivo é validar a comunicação com uma API que permita: criar, ler, atual
 - [Matheus Menezes Duarte](#)
 - [Paulo Ricardo Ribeiro dos Santos](https://www.linkedin.com/)
 
-## Por qual motivo o projeto é monolito?
+## 📘 Por qual motivo o projeto é monolito?
 
 Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio.
 
-## Beneficios
+## 🧲 Benefícios
 
 Aplicação gerenciada pelo time de TI, pois são os responsáveis pela instalaçõa, criação e controle. Detêm de toda a documentação do projeto
 
-## Desvantagens
+## 📉 Desvantagens
 
 Dependem de atualizações do fornecedor/desenvolvimento relacionado à performace. Ou seja, disponibilizada uma nova versão, o time de ti precisa atualizar a vesão do (.exe, componentes e escalabilidade do banco de dados).
 
-## Análises dos 12 Fatores
+## ‼️ Análises dos 12 Fatores
 
  - "Descrever os resquisitos baseado na aplicação desenvolvida(monolito)."
  - Se (Atente, Atende(parcialmente) ou Não atende;)
 
-## Performace
+## 🧠 Performace
 
 Descrever:
 
-## Link do diagrama
+## 🔗 Link do diagrama
 
 ();
 
-## Diagrama de Arquitetura Aplicada
+## 📝 Diagrama de Arquitetura Aplicada
 
 ![Diagrama Imagem](/.github/DiagramaArquiteturaAplicadaTechChallenge.png)
 
