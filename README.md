@@ -81,7 +81,8 @@ Descrever:
 
 ##💲Calculo 
 
-![](/.github/price-calculator.jpeg) 
+![Calculo](/https://calculator.aws/#/estimate?id=73ffe6f1317bfabd888787ef788ca9f1005ab30b.jpeg)
+
 
 
 
