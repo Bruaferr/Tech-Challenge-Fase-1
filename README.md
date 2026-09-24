@@ -7,7 +7,7 @@
 
 # Tech Challenge Fase 1
 
-Em fase de conclusão o projeto "ToggleMaster" de acordo com o que foi proposto e espera-se atingir as seguintes fases:
+Em fase de conclusão do projeto "ToggleMaster" de acordo com o que foi proposto. Espera-se atingir as seguintes fases:
 
 1° (App.py)              = Variável de ambiente monolítico em phayton
 2° (Dockerfile)          = Rodar a estrutura monolítico
@@ -16,15 +16,15 @@ Em fase de conclusão o projeto "ToggleMaster" de acordo com o que foi proposto 
 
 ## 🖥️ Proposta
 
-O objetivo é validar a comunicação com uma API que permita: criar, ler, atualizar e deletar feature flags sem a necessidade de um novo deploy. Portanto, o projeto visa criar e implantar o (Produto Mínimo Viável), que consiste em uma API monolítica para gerenciar as  *feature flags*.
+O objetivo é validar a comunicação com a API que permita: criar, ler, atualizar e deletar feature flags sem a necessidade de um novo deploy. Logo, o projeto visa criar e implantar o (Produto Mínimo Viável), que consiste em uma API monolítica para gerenciar as  feature flags.
 
 ## 📋 O Propósito é utilizar os fundamentos do "DevOps/Cloud" no sentido de:
 
-- Examinar ambiente monolítico.
+- Examinar o ambiente monolítico.
 - Debater as vantagens e desvantagens.
 - Analisar os 12 fatores.
-- Projetar a arquitetura de nuvem Web/AWS.
-- Implementar recursos AWS (VPC, EC2, RDS, Security Groups).
+- Projetar a arquitetura de nuvem WEB/AWS.
+- Implementar recursos na AWS (VPC, EC2, RDS, Security Groups).
 - Configurar práticas de segurança na AWS (IAM, Security Groups).
 
 ## 📌 Resultados da Fase 1
@@ -52,20 +52,20 @@ O objetivo é validar a comunicação com uma API que permita: criar, ler, atual
 
 ## 📘 Por qual motivo o projeto é monolito?
 
-Trata-se de uma aplicação desenvolvida para ambiente (local .exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio.
+Trata-se de uma aplicação desenvolvida para ambiente (local/.exe), de modo que a interface, serviços e Dlls compartilham do mesmo diretório da aplicação. Essa abordagem simplifica a instalação, homologação/testes e entendimento da regra de negócio.
 
 ## 🧲 Benefícios
 
-Aplicação gerenciada pelo time de TI, pois são os responsáveis pela instalaçõa, criação e controle. Detêm de toda a documentação do projeto
+Aplicação é gerenciada pelo time de TI, pois são eles os responsáveis pela instalação, criação e controle. Detêm de toda a documentação do projeto implantado.
 
 ## 📉 Desvantagens
 
-Dependem de atualizações do fornecedor/desenvolvimento relacionado à performace. Ou seja, disponibilizada uma nova versão, o time de ti precisa atualizar a vesão do (.exe, componentes e escalabilidade do banco de dados).
+Dependem de atualizações do fornecedor/desenvolvedor relacionado à performace e melhorias. Ou seja, disponibilizada uma nova versão, o time de ti precisa atualizar a vesão do (.exe, componentes e escalabilidade do banco de dados).
 
 ## ‼️ Análises dos 12 Fatores
 
  - "Descrever os resquisitos baseado na aplicação desenvolvida(monolito)."
- - Se (Atente, Atende(parcialmente) ou Não atende;)
+ - Se -> (Atente, Atende(parcialmente) ou Não atende.)
 
 ## 🧠 Performace
 
@@ -75,11 +75,11 @@ Descrever:
 
 ();
 
-## 📝 Diagrama de Arquitetura Aplicada
+📝 Diagrama de Arquitetura Aplicada
 
 ![Diagrama Imagem](/.github/DiagramaArquiteturaAplicadaTechChallenge.png)
 
-## 💲Calculo 
+💲Calculo 
 
 ![](/.github/price-calculator.jpeg) 
 
