@@ -40,7 +40,7 @@ O objetivo é validar a comunicação com a API que permita: criar, ler, atualiz
 - [Performace](#performace);
 - [Link do diagrama](https://excalidraw.com/#json=xmeLtXuGWBvNmcuFlCBde,Y9SUpEMCvxw6mgpuzFXjsQ);
 - [Imagem do diagrama](#diagrama-de-arquitetura-aplicada);
-- [Calculo](#calculadora-com-estimativa-de-preço);
+- [Calculator](#calculadora-com-estimativa-de-preço);
 
 3. **Integrantes do Grupo:**
 
@@ -80,9 +80,9 @@ Descrever:
 ![Diagrama Imagem](https://github.com/Bruaferr/Tech-Challenge-Fase-1/blob/98908adfccd46cf75cb9d82167cc66e77daf2817/Github/GithubDiagramaArquiteturaAplicadaTechChallenge.png)
 
 
-##💲Calculo 
+##💲Calculator
 
-![Calculo](Github/Calculador.jpg)
+![Calculator](Github/Calculador.jpg)
 
 
 
