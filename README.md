@@ -82,7 +82,7 @@ Descrever:
 
 ##💲Calculo 
 
-![Calculo](https://calculator.aws/#/estimate?id=b80f930f226a1810673f55f1690713e0b2782a81)
+![Calculo](Github/Calculador.jpg)
 
 
 
