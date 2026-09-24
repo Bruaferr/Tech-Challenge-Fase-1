@@ -75,11 +75,11 @@ Descrever:
 
 ();
 
-📝 Diagrama de Arquitetura Aplicada
+## 📝 Diagrama de Arquitetura Aplicada
 
 ![Diagrama Imagem](/.github/DiagramaArquiteturaAplicadaTechChallenge.png)
 
-💲Calculo 
+##💲Calculo 
 
 ![](/.github/price-calculator.jpeg) 
 
