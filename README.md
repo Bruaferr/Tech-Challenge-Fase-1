@@ -77,7 +77,7 @@ Descrever:
 
 ## 📝 Diagrama de Arquitetura Aplicada
 
-![Diagrama Imagem](/.Github/GithubDiagramaArquiteturaAplicadaTechChallenge.png)
+![Diagrama Imagem](/.Github/DiagramaArquiteturaAplicadaTechChallenge.png)
 
 ##💲Calculo 
 
