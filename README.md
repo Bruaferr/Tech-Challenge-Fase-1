@@ -3,7 +3,7 @@
   <hr style="border: none; border-top: 1px solid #ED145B; width: 100%; margin: 0 auto"/>
 </div>
 
-![/.github/LOGO-FIAP.png](/https://github.com/Bruaferr/Tech-Challenge-Fase-1/blob/main/Github/Logo-fiap.png)
+![/.github/LOGO-FIAP.png](./https://github.com/Bruaferr/Tech-Challenge-Fase-1/blob/main/Github/Logo-fiap.png)
 
 # Tech Challenge Fase 1
 
