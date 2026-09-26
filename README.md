@@ -77,7 +77,7 @@ Descrever:
 
 ## 📝 Diagrama de Arquitetura Aplicada
 
-![Diagrama Imagem](https://excalidraw.com/#json=HxFt5WHdPjZjlUaR0ltNw,T8JP8pUQ8oSd-fpvScTHgQ.png)
+![Diagrama Imagem](https://github.com/Bruaferr/Tech-Challenge-Fase-1/blob/main/Github/Diagrama.png)
 
 
 ##💲Calculator
