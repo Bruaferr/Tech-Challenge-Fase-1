@@ -1,8 +1,48 @@
+-- Cultura-Devops/
+
+Aula 1 - Fundamentos da Cultura DevOps -- ok
+Aula 2 - Práticas comuns e ferramentas -- ok Fluxo: (Iac -> CI/CD -> Segurança -> Containers -> Monitoramente -> Automação, colaboração e aprendizado continuo)
+Aula 3 - Cultura Organizacional        -- ok  
+Aula 4 - Integração e Automação        -- ok
+
+-- Arquitetura-Cloud/
+
+Aula 1 - Introdução à Computação em Nuvem -- ok
+Aula 2 - Modelos de Serviço: IaaS, PaaS, SaaS e FaaS 
+
+Live sobre Tech Challenge:
+
+1° O projeto "ToggleMaster" Fase 1: primeira versão(MVP) produto minimo variavel da arquitetura   e rodar na esturtura na AWS.
+ 
+ Proposta:  O objetivo é validar a ideia com uma API simples que permita criar, ler, atualizar e deletar feature flags. 
+A equipe precisa colocar essa aplicação no ar rapidamente para receber  feedback. 
+
+Repostitótio da aplicação : https://github.com/dougls/toggle-master-monolith
+
+1°(app.py)              = Variável de ambiente monolítico em phayton
+2°(Dockerfile)          = Rodar a estrutura monolítico
+3°(docker-compose.yaml) = Rodar a estrutura local
+4°(README.md)           = Pre-resquisitos para rodar local/aws, como também (End points  para testar as chamadas de Apis [Postman ou curl])
+
+https://excalidraw.com/#json=MaV0m2lbj0qbdvzxNDfLT,-VJxhE4B0otzFNdWUihvog
+
+https://excalidraw.com/#json=RC1oedTmoCSuQM2lL6Stq,dTduMZlID-CCBk6TBsEubQ
+
+PgUp/PgDn
+
+@Kitesurf85@
+
+https://calculator.aws/#/estimate?id=c7230f94a63bc9ab0ffcb8993b7ec0d7d5cf61c1
+
+*feature flags*.
+
+https://github.com/Bruaferr/Tech-Challenge-Fase-1/blob/98908adfccd46cf75cb9d82167cc66e77daf2817/Github/GithubDiagramaArquiteturaAplicadaTechChallenge.png
 
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html
 
 -- Enviar uma imagem Docker para um repositório privado do Amazon ECR
-
-
 aws ecr get-login-password --region <region> | 
 docker login --username AWS --password-stdin <aws_account_id>.dkr.ecr.<region>.amazonaws.com
+
+https://excalidraw.com
+
