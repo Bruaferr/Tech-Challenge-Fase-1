@@ -77,7 +77,7 @@ Descrever:
 
 ## 📝 Diagrama de Arquitetura Aplicada
 
-![Diagrama Imagem](https://excalidraw.com/)
+![Diagrama Imagem](https://excalidraw.com/#json=HxFt5WHdPjZjlUaR0ltNw,T8JP8pUQ8oSd-fpvScTHgQ.png)
 
 
 ##💲Calculator
